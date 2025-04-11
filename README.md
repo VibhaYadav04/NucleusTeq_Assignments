@@ -3,5 +3,5 @@
 - JS Assignment 1 - https://github.com/VibhaYadav04/Roll-The-Dice
 - JS Assignment 2 - https://github.com/VibhaYadav04/Quiz_Application
 - Basic Java Assignment - https://github.com/VibhaYadav04/Basic_Java_Assignment
-- Minor Capstone 1- https://github.com/VibhaYadav04/Online_Food_Ordering
+- Java Assignment 2 - https://github.com/VibhaYadav04/HR_Management_Portal
   
