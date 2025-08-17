@@ -8,4 +8,5 @@
 - Capstone 2- https://github.com/VibhaYadav04/E-Commerce_FASTAPI.git
 - React.js Assignment - https://github.com/VibhaYadav04/React_Assignment
 - Next.js Assignment - https://github.com/VibhaYadav04/Next.js_Assignment
+- Java Spark Assignment - https://github.com/VibhaYadav04/Java_Spark_Assignment
   
