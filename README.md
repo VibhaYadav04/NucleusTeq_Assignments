@@ -9,4 +9,6 @@
 - React.js Assignment - https://github.com/VibhaYadav04/React_Assignment
 - Next.js Assignment - https://github.com/VibhaYadav04/Next.js_Assignment
 - Java Spark Assignment - https://github.com/VibhaYadav04/Java_Spark_Assignment
+- Power BI Practice - https://github.com/VibhaYadav04/Blinkit_Dashboard_PowerBI
+- Power BI Assignment - https://github.com/VibhaYadav04/Healthcare_Analytics_PowerBI
   
